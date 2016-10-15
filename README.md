@@ -1,3 +1,7 @@
-The greatness of human accomplishment has always been measured by size. The bigger, the better. Until now. Nanotech. Smart cars. Small is the new big. In the coming months, Hooli will deliver Nucleus, the most sophisticated compression software platform the world has ever seen. Because if we can make your audio and video files smaller, we can make cancer smaller. And hunger. And AIDS.
+Thread-safe core PHP runtime included in [srvlets/app][1], featuring [Process Control][2], [pthreads][3], [Ev][4] and [Composer][5].
 
-— Gavin Belson, CEO – Hooli, Inc.
+[1]: https://github.com/srvlets/app
+[2]: http://php.net/manual/en/book.pcntl.php
+[3]: http://php.net/manual/en/book.pthreads.php
+[4]: http://php.net/manual/en/book.ev.php
+[5]: https://getcomposer.org
